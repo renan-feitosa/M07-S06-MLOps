@@ -88,7 +88,7 @@
 
 ## Referências Bibliográficas
 
-1. BERTAN, Erica. Medium. Medium. Disponível em: <https://medium.com/@ericabertan/o-que->. Acesso em: 16 set. 2024.
+1. BERTAN, Erica. Medium. Medium. Disponível em: <https://medium.com/@ericabertan/o-que-é-concept-drift-em-machine-learning-40ae3c4f0b67>. Acesso em: 16 set. 2024.
 
 2. HARRIES, Michael ;  HORN, Kim. Detecting Concept Drift in Financial Time Series Prediction Using Symbolic Machine Learning. World Scientific Publishing, p. 91–98, 1995.
 
